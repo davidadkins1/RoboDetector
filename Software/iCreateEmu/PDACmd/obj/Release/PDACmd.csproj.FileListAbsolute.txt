@@ -1,0 +1,8 @@
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\bin\Release\PDACmd.exe
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\bin\Release\PDACmd.pdb
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\obj\Release\PDACmd.Form1.resources
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\obj\Release\PDACmd.Properties.Resources.resources
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\obj\Release\PDACmd.csproj.GenerateResource.Cache
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\obj\Release\PDACmd.exe
+C:\Projects\RRP\Robotics Source Code\PDACmd\PDACmd\PDACmd\obj\Release\PDACmd.pdb

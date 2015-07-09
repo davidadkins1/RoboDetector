@@ -1,0 +1,1252 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BACKUP	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	22;"	e	line:22	enum:ESCAPE_STATES
+BANNER	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	35;"	v	line:35	file:
+BEHAVIORS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	5;"	g	line:5
+BEHAVIORS_H	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	3;"	d	line:3
+BEHAVIOR_PARAMETERS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	68;"	s	line:68
+BT_RESET::LATBbits.LATB3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	247;"	d	line:247
+BT_RESET::LATCbits.LATC0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	253;"	d	line:253
+BYTE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	94;"	t	line:94
+BYTE_VAL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	115;"	t	line:115
+Baud115200::11	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	352;"	d	line:352
+Baud1200::2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	343;"	d	line:343
+Baud14400::6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	347;"	d	line:347
+Baud19200::7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	348;"	d	line:348
+Baud2400::3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	344;"	d	line:344
+Baud28800::8	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	349;"	d	line:349
+Baud300::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	341;"	d	line:341
+Baud38400::9	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	350;"	d	line:350
+Baud4800::4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	345;"	d	line:345
+Baud57600::10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	351;"	d	line:351
+Baud600::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	342;"	d	line:342
+Baud9600::5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	346;"	d	line:346
+BehaviorControl	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	76;"	m	line:76	struct:MOTOR_CONTROL_REQUESTS
+BumpBoth::0x03	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	321;"	d	line:321
+BumpEither::0x03	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	322;"	d	line:322
+BumpLeft::0x02	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	319;"	d	line:319
+BumpRight::0x01	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	320;"	d	line:320
+ButtonAdvance::0x04	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	324;"	d	line:324
+ButtonPlay::0x01	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	325;"	d	line:325
+CFG_ONCE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	24;"	d	line:24	file:
+CFG_ONCE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	26;"	d	line:26	file:
+CHAR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	97;"	t	line:97
+CMD_READ	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	32;"	e	line:32	enum:CMD_STATE	file:
+CMD_READ	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	119;"	e	line:119	enum:CMD_STATE	file:
+CMD_STATE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	32;"	g	line:32	file:
+CMD_STATE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	119;"	g	line:119	file:
+COMPASS_STACK_SIZE::0x120	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	47;"	d	line:47
+COMPASS_TASK_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	29;"	e	line:29	enum:TASK_PRIORITIES
+COMPLETED	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	43;"	e	line:43	enum:MOTOR_STATE
+CONFIG_ONCE	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	84;"	d	line:84	file:
+CONFIG_ONCE	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	86;"	d	line:86	file:
+CO_ROUTINE_H	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	56;"	d	line:56
+CRUISE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	8;"	e	line:8	enum:BEHAVIORS
+CTS::PORTAbits.RA7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	246;"	d	line:246
+CTS::PORTCbits.RC5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	252;"	d	line:252
+CmdBaud::(unsignedportCHAR)129	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	9;"	d	line:9
+CmdClean::(unsignedportCHAR)135	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	14;"	d	line:14
+CmdControl::(unsignedportCHAR)130	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	10;"	d	line:10
+CmdDemo::(unsignedportCHAR)136	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	15;"	d	line:15
+CmdDock::(unsignedportCHAR)143	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	22;"	d	line:22
+CmdDrive::(unsignedportCHAR)137	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	16;"	d	line:16
+CmdDriveDistance::(unsignedportCHAR)201	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	32;"	d	line:32
+CmdDriveWheels::(unsignedportCHAR)145	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	24;"	d	line:24
+CmdFull::(unsignedportCHAR)132	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	12;"	d	line:12
+CmdIRChar::(unsignedportCHAR)151	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	27;"	d	line:27
+CmdLeds::(unsignedportCHAR)139	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	18;"	d	line:18
+CmdMotors::(unsignedportCHAR)138	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	17;"	d	line:17
+CmdOutputs::(unsignedportCHAR)147	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	25;"	d	line:25
+CmdPWMMotors::(unsignedportCHAR)144	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	23;"	d	line:23
+CmdPlay::(unsignedportCHAR)141	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	20;"	d	line:20
+CmdSafe::(unsignedportCHAR)131	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	11;"	d	line:11
+CmdScript::(unsignedportCHAR)152	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	28;"	d	line:28
+CmdSensorList::(unsignedportCHAR)149	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	26;"	d	line:26
+CmdSensors::(unsignedportCHAR)142	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	21;"	d	line:21
+CmdSong::(unsignedportCHAR)140	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	19;"	d	line:19
+CmdSpot::(unsignedportCHAR)134	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	13;"	d	line:13
+CmdStart::(unsignedportCHAR)128	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	8;"	d	line:8
+CurrentDirection	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	64;"	m	line:64	struct:MOTOR_CONTROL_PARAMETERS
+CurrentDistance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	65;"	m	line:65	struct:MOTOR_CONTROL_PARAMETERS
+CurrentVelocity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	63;"	m	line:63	struct:MOTOR_CONTROL_PARAMETERS
+DECLINATION_CORRECTION::.1902401	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	39;"	d	line:39	file:
+DEGREE_CONVERSION::57.29578	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	40;"	d	line:40	file:
+DWORD	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	96;"	t	line:96
+DWORD_VAL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	201;"	t	line:201
+Direction	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	61;"	m	line:61	struct:MOTOR_CONTROL_PARAMETERS
+Distance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	62;"	m	line:62	struct:MOTOR_CONTROL_PARAMETERS
+Distance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	71;"	m	line:71	struct:BEHAVIOR_PARAMETERS
+EMFTime	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	60;"	m	line:60	struct:MOTOR_CONTROL_PARAMETERS
+ESCAPE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	9;"	e	line:9	enum:BEHAVIORS
+ESCAPE_STACK_SIZE::configMINIMAL_STACK_SIZE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	46;"	d	line:46
+ESCAPE_STATES	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	15;"	g	line:15
+ESCAPE_TASK	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	8;"	e	line:8	enum:TASK_LIST
+ESCAPE_TASK_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	32;"	e	line:32	enum:TASK_PRIORITIES
+FREERTOS_CONFIG_H	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	49;"	d	line:49
+HB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	125;"	m	line:125	struct:_WORD_VAL::<anonymous>
+HB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	162;"	m	line:162	struct:_DWORD_VAL::<anonymous>
+HW	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	157;"	m	line:157	struct:_DWORD_VAL::<anonymous>
+HighVector	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	619;"	f	line:619	signature:(void)
+INCLUDE_uxTaskPriorityGet::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	86;"	d	line:86
+INCLUDE_vTaskCleanUpResources::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	88;"	d	line:88
+INCLUDE_vTaskDelay::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	91;"	d	line:91
+INCLUDE_vTaskDelayUntil::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	90;"	d	line:90
+INCLUDE_vTaskDelete::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	87;"	d	line:87
+INCLUDE_vTaskPrioritySet::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	85;"	d	line:85
+INCLUDE_vTaskSuspend::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	89;"	d	line:89
+INPUT_PIN::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	109;"	d	line:109
+IO_CFG_H	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	26;"	d	line:26
+LB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	124;"	m	line:124	struct:_WORD_VAL::<anonymous>
+LB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	161;"	m	line:161	struct:_DWORD_VAL::<anonymous>
+LEDAdvance::0x08	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	329;"	d	line:329
+LEDPlay::0x02	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	330;"	d	line:330
+LED_OFF::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	182;"	d	line:182
+LED_ON::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	183;"	d	line:183
+LED_TASK	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	6;"	e	line:6	enum:TASK_LIST
+LED_TASK_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	31;"	e	line:31	enum:TASK_PRIORITIES
+LEDsBoth::0x0A	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	331;"	d	line:331
+LEFT_MOTOR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	35;"	e	line:35	enum:MOTOR_SELECT
+LIST_H	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	84;"	d	line:84
+LMF::LATBbits.LATB0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	205;"	d	line:205
+LMF::LATBbits.LATB4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	221;"	d	line:221
+LMR::LATAbits.LATA6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	227;"	d	line:227
+LMR::LATCbits.LATC0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	211;"	d	line:211
+LMS::LATCbits.LATC2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	215;"	d	line:215
+LMS::LATCbits.LATC2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	231;"	d	line:231
+LM_FORWARD_DISABLE::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	198;"	d	line:198
+LM_FORWARD_ENABLE::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	197;"	d	line:197
+LM_REVERSE_DISABLE::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	200;"	d	line:200
+LM_REVERSE_ENABLE::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	199;"	d	line:199
+LM_START::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	196;"	d	line:196
+LM_STOP::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	195;"	d	line:195
+LONG	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	99;"	t	line:99
+LW	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	156;"	m	line:156	struct:_DWORD_VAL::<anonymous>
+LastEMF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	55;"	m	line:55	struct:MOTOR_CONTROL_PARAMETERS
+LastEMFTime	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	59;"	m	line:59	struct:MOTOR_CONTROL_PARAMETERS
+LeftMotor	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	61;"	v	line:61	file:
+LeftMotorSpeed::SetDCPWM1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	236;"	d	line:236
+MAX_BEHAVIOR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	11;"	e	line:11	enum:BEHAVIORS
+MAX_METRIC_SPEED::1000	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	38;"	d	line:38	file:
+MB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	164;"	m	line:164	struct:_DWORD_VAL::<anonymous>
+METRIC_SPEED::(signedint)495	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	36;"	d	line:36	file:
+METRIC_TO_SPEED::75	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	35;"	d	line:35	file:
+METRIC_WHEEL_BASE::(float)261	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	37;"	d	line:37	file:
+MM_PER_RADIAN::130.5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	40;"	d	line:40	file:
+MODE::0x02	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	31;"	d	line:31	file:
+MOTOR_CONTROL_PARAMETERS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	46;"	s	line:46
+MOTOR_CONTROL_PARAMETERS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	72;"	t	line:72
+MOTOR_CONTROL_REQUESTS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	74;"	s	line:74
+MOTOR_H	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	2;"	d	line:2
+MOTOR_MONITOR_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	33;"	e	line:33	enum:TASK_PRIORITIES
+MOTOR_NOISE::10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	33;"	d	line:33	file:
+MOTOR_SELECT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	33;"	g	line:33
+MOTOR_STATE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	39;"	g	line:39
+MOTOR_TASK	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	7;"	e	line:7	enum:TASK_LIST
+MOVE_AWAY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	20;"	e	line:20	enum:ESCAPE_STATES
+MotorCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	54;"	m	line:54	struct:MOTOR_CONTROL_PARAMETERS
+MotorCurrent_channel	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	51;"	m	line:51	struct:MOTOR_CONTROL_PARAMETERS
+MotorEMF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	56;"	m	line:56	struct:MOTOR_CONTROL_PARAMETERS
+MotorEMFA	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	57;"	m	line:57	struct:MOTOR_CONTROL_PARAMETERS
+MotorEMFA_channel	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	52;"	m	line:52	struct:MOTOR_CONTROL_PARAMETERS
+MotorEMFB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	58;"	m	line:58	struct:MOTOR_CONTROL_PARAMETERS
+MotorEMFB_channel	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	53;"	m	line:53	struct:MOTOR_CONTROL_PARAMETERS
+NINETY_DEGREES::1.570796	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	35;"	d	line:35	file:
+NORMAL_CRUISE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	17;"	e	line:17	enum:ESCAPE_STATES
+NOT_TRIGGERED::0;	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	261;"	d	line:261
+NO_CONTROL_REQUEST	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	7;"	e	line:7	enum:BEHAVIORS
+NO_ERROR_PERIOD::configTICK_RATE_HZ	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	46;"	d	line:46	file:
+OIFull::(unsignedportCHAR)3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	337;"	d	line:337
+OIOff::(unsignedportCHAR)0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	334;"	d	line:334
+OIPassive::(unsignedportCHAR)1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	335;"	d	line:335
+OISafe::(unsignedportCHAR)2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	336;"	d	line:336
+OI_FULL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	40;"	e	line:40	enum:OI_STATE
+OI_OFF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	37;"	e	line:37	enum:OI_STATE
+OI_PASSIVE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	38;"	e	line:38	enum:OI_STATE
+OI_SAFE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	39;"	e	line:39	enum:OI_STATE
+OI_STATE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	35;"	g	line:35
+ONE_EIGHTY_DEGREES::3.141593	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	36;"	d	line:36	file:
+OUTPUT_PIN::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	110;"	d	line:110
+PI::3.141593	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	34;"	d	line:34	file:
+PORTABLE_H	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	42;"	d	line:42
+PORTMACRO_H	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	49;"	d	line:49
+PREFIX_1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	32;"	e	line:32	enum:CMD_STATE	file:
+PREFIX_1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	119;"	e	line:119	enum:CMD_STATE	file:
+PREFIX_2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	32;"	e	line:32	enum:CMD_STATE	file:
+PREFIX_2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	119;"	e	line:119	enum:CMD_STATE	file:
+PRESCALE2::4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	20;"	d	line:20
+PROJDEFS_H	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	49;"	d	line:49
+PWM_PERIOD::50	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	24;"	d	line:24
+PlayScript::(unsignedportCHAR)153	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	29;"	d	line:29
+QUEUE_H	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	56;"	d	line:56
+QUEUE_REGISTRY_ITEM	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	154;"	s	line:154	file:
+QueueDefinition	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	84;"	s	line:84	file:
+RADIAN_CONVERSION::0.0174533	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	39;"	d	line:39	file:
+READ_DATA::0x3D	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	30;"	d	line:30	file:
+READ_SPEED_1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	32;"	e	line:32	enum:CMD_STATE	file:
+READ_SPEED_1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	119;"	e	line:119	enum:CMD_STATE	file:
+READ_SPEED_2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	32;"	e	line:32	enum:CMD_STATE	file:
+READ_SPEED_2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	119;"	e	line:119	enum:CMD_STATE	file:
+REMOTE_CONTROL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	10;"	e	line:10	enum:BEHAVIORS
+RESET_BT::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	239;"	d	line:239
+RESET_LED_PERIOD::configTICK_RATE_HZ/10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	49;"	d	line:49	file:
+RIGHT_MOTOR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	36;"	e	line:36	enum:MOTOR_SELECT
+RMF::LATBbits.LATB1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	207;"	d	line:207
+RMF::LATBbits.LATB1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	223;"	d	line:223
+RMR::LATBbits.LATB5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	209;"	d	line:209
+RMR::LATBbits.LATB5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	225;"	d	line:225
+RMS::LATCbits.LATC1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	213;"	d	line:213
+RMS::LATCbits.LATC1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	229;"	d	line:229
+RM_FORWARD_DISABLE::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	191;"	d	line:191
+RM_FORWARD_ENABLE::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	190;"	d	line:190
+RM_REVERSE_DISABLE::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	193;"	d	line:193
+RM_REVERSE_ENABLE::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	192;"	d	line:192
+RM_START::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	189;"	d	line:189
+RM_STOP::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	188;"	d	line:188
+RUNNING	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	42;"	e	line:42	enum:MOTOR_STATE
+RadCCW::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	357;"	d	line:357
+RadCW::-1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	358;"	d	line:358
+RadStraight::32768	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	356;"	d	line:356
+RightMotor	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	62;"	v	line:62	file:
+RightMotorSpeed::SetDCPWM2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	237;"	d	line:237
+SCRIPT_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	30;"	e	line:30	enum:TASK_PRIORITIES
+SENSORS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	251;"	t	line:251
+SENSOR_DATA	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	241;"	t	line:241
+SERIAL_COMMS_H	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	38;"	d	line:38
+SHORT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	98;"	t	line:98
+SONAR_IN::PORTBbits.RB3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	265;"	d	line:265
+SONAR_OUT::LATBbits.LATB3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	264;"	d	line:264
+SPEED_0::64036	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	31;"	d	line:31
+SPEED_100::220	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	25;"	d	line:25
+SPEED_15::15	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	30;"	d	line:30
+SPEED_25::50	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	29;"	d	line:29
+SPEED_50::150	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	28;"	d	line:28
+SPEED_75::150	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	27;"	d	line:27
+SPEED_85::170	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	26;"	d	line:26
+STALL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	18;"	e	line:18	enum:ESCAPE_STATES
+STALL_STOP	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	19;"	e	line:19	enum:ESCAPE_STATES
+START_BT::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	240;"	d	line:240
+STOP::PWM_PERIOD+2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	22;"	d	line:22
+STOPPED	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	41;"	e	line:41	enum:MOTOR_STATE
+Select	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	48;"	m	line:48	struct:MOTOR_CONTROL_PARAMETERS
+Sen0Size::26	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	307;"	d	line:307
+Sen1Size::10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	308;"	d	line:308
+Sen2Size::6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	309;"	d	line:309
+Sen3Size::10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	310;"	d	line:310
+Sen4Size::14	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	311;"	d	line:311
+Sen5Size::12	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	312;"	d	line:312
+Sen6Size::52	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	313;"	d	line:313
+SenAInput0::38	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	290;"	d	line:290
+SenAInput1::37	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	289;"	d	line:289
+SenAng0::15	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	267;"	d	line:267
+SenAng1::14	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	266;"	d	line:266
+SenBumpDrop::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	254;"	d	line:254
+SenButton::11	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	263;"	d	line:263
+SenCap0::25	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	277;"	d	line:277
+SenCap1::24	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	276;"	d	line:276
+SenChAvailable::39	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	291;"	d	line:291
+SenCharge0::23	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	275;"	d	line:275
+SenCharge1::22	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	274;"	d	line:274
+SenChargeState::16	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	268;"	d	line:268
+SenCliffFL::3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	257;"	d	line:257
+SenCliffFLSig0::31	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	283;"	d	line:283
+SenCliffFLSig1::30	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	282;"	d	line:282
+SenCliffFR::4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	258;"	d	line:258
+SenCliffFRSig0::33	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	285;"	d	line:285
+SenCliffFRSig1::32	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	284;"	d	line:284
+SenCliffL::2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	256;"	d	line:256
+SenCliffLSig0::29	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	281;"	d	line:281
+SenCliffLSig1::28	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	280;"	d	line:280
+SenCliffR::5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	259;"	d	line:259
+SenCliffRSig0::35	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	287;"	d	line:287
+SenCliffRSig1::34	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	286;"	d	line:286
+SenCurr0::20	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	272;"	d	line:272
+SenCurr1::19	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	271;"	d	line:271
+SenDist0::13	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	265;"	d	line:265
+SenDist1::12	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	264;"	d	line:264
+SenIRChar::10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	262;"	d	line:262
+SenInputs::36	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	288;"	d	line:288
+SenOIMode::40	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	292;"	d	line:292
+SenOISong::41	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	293;"	d	line:293
+SenOISongPlay::42	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	294;"	d	line:294
+SenOverC::7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	261;"	d	line:261
+SenRad0::47	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	299;"	d	line:299
+SenRad1::46	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	298;"	d	line:298
+SenStreamPckts::43	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	295;"	d	line:295
+SenTemp::21	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	273;"	d	line:273
+SenVWall::6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	260;"	d	line:260
+SenVel0::45	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	297;"	d	line:297
+SenVel1::44	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	296;"	d	line:296
+SenVelL0::51	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	303;"	d	line:303
+SenVelL1::50	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	302;"	d	line:302
+SenVelR0::49	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	301;"	d	line:301
+SenVelR1::48	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	300;"	d	line:300
+SenVolt0::18	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	270;"	d	line:270
+SenVolt1::17	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	269;"	d	line:269
+SenWall::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	255;"	d	line:255
+SenWallSig0::27	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	279;"	d	line:279
+SenWallSig1::26	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	278;"	d	line:278
+Speed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	50;"	m	line:50	struct:MOTOR_CONTROL_PARAMETERS
+Speed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	70;"	m	line:70	struct:BEHAVIOR_PARAMETERS
+State	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	49;"	m	line:49	struct:MOTOR_CONTROL_PARAMETERS
+TASK_H	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	56;"	d	line:56
+TASK_LIST	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	4;"	g	line:4
+TASK_PRIORITIES	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	27;"	g	line:27
+TEST_LED::LATBbits.LATB0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	178;"	d	line:178
+TEST_LED::LATBbits.LATB4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	173;"	d	line:173
+THREE_SIXTY_DEGREES::6.283185	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	38;"	d	line:38	file:
+TRIGGERED::1;	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	262;"	d	line:262
+TRIS_BT_RESET::TRISBbits.TRISB3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	126;"	d	line:126
+TRIS_BT_RESET::TRISCbits.TRISC0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	157;"	d	line:157
+TRIS_CTS::TRISAbits.TRISA7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	119;"	d	line:119
+TRIS_CTS::TRISCbits.TRISC5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	163;"	d	line:163
+TRIS_LMA_EMF::TRISAbits.TRISA5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	120;"	d	line:120
+TRIS_LMA_EMF::TRISAbits.TRISA5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	147;"	d	line:147
+TRIS_LMB_EMF::TRISBbits.TRISB2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	125;"	d	line:125
+TRIS_LMB_EMF::TRISBbits.TRISB2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	152;"	d	line:152
+TRIS_LMF::TRISBbits.TRISB0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	123;"	d	line:123
+TRIS_LMF::TRISBbits.TRISB4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	153;"	d	line:153
+TRIS_LMR::TRISAbits.TRISA6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	148;"	d	line:148
+TRIS_LMR::TRISCbits.TRISC0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	132;"	d	line:132
+TRIS_LMS::TRISCbits.TRISC2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	134;"	d	line:134
+TRIS_LMS::TRISCbits.TRISC2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	159;"	d	line:159
+TRIS_LM_CURRENT::TRISAbits.TRISA3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	118;"	d	line:118
+TRIS_LM_CURRENT::TRISAbits.TRISA3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	146;"	d	line:146
+TRIS_RMA_EMF::TRISAbits.TRISA0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	115;"	d	line:115
+TRIS_RMA_EMF::TRISAbits.TRISA0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	143;"	d	line:143
+TRIS_RMB_EMF::TRISAbits.TRISA1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	116;"	d	line:116
+TRIS_RMB_EMF::TRISAbits.TRISA1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	144;"	d	line:144
+TRIS_RMF::TRISBbits.TRISB1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	124;"	d	line:124
+TRIS_RMF::TRISBbits.TRISB1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	151;"	d	line:151
+TRIS_RMR::TRISBbits.TRISB5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	128;"	d	line:128
+TRIS_RMR::TRISBbits.TRISB5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	154;"	d	line:154
+TRIS_RMS::TRISCbits.TRISC1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	133;"	d	line:133
+TRIS_RMS::TRISCbits.TRISC1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	158;"	d	line:158
+TRIS_RM_CURRENT::TRISAbits.TRISA2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	117;"	d	line:117
+TRIS_RM_CURRENT::TRISAbits.TRISA2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	145;"	d	line:145
+TRIS_SCL::TRISCbits.TRISC3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	135;"	d	line:135
+TRIS_SCL::TRISCbits.TRISC3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	160;"	d	line:160
+TRIS_SDA::TRISCbits.TRISC4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	136;"	d	line:136
+TRIS_SDA::TRISCbits.TRISC4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	161;"	d	line:161
+TRIS_TEST_LED::TRISBbits.TRISB0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	150;"	d	line:150
+TRIS_TEST_LED::TRISBbits.TRISB4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	127;"	d	line:127
+TRIS_USART_RX::TRISCbits.TRISC7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	138;"	d	line:138
+TRIS_USART_RX::TRISCbits.TRISC7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	165;"	d	line:165
+TRIS_USART_TX::TRISCbits.TRISC6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	137;"	d	line:137
+TRIS_USART_TX::TRISCbits.TRISC6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	164;"	d	line:164
+TURN_AWAY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	23;"	e	line:23	enum:ESCAPE_STATES
+TURN_FORWARD	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\behaviors.h	21;"	e	line:21	enum:ESCAPE_STATES
+TWO_SEVENTY_DEGREES::4.712389	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	37;"	d	line:37	file:
+ToHex	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	203;"	f	line:203	signature:(char cin, char *cout1, char *cout2)
+TurnToHeading::(unsignedportCHAR)202	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	33;"	d	line:33
+UART_RX_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	35;"	e	line:35	enum:TASK_PRIORITIES
+UART_RX_TASK	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	9;"	e	line:9	enum:TASK_LIST
+UART_TX_PRIORITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	34;"	e	line:34	enum:TASK_PRIORITIES
+UART_TX_TASK	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	10;"	e	line:10	enum:TASK_LIST
+UB	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	163;"	m	line:163	struct:_DWORD_VAL::<anonymous>
+USART_RX::PORTBbits.RC7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	258;"	d	line:258
+USART_TX::PORTBbits.RC6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\io_cfg.h	257;"	d	line:257
+Ubrr115200::9	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	374;"	d	line:374
+Ubrr1200::959	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	365;"	d	line:365
+Ubrr14400::79	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	369;"	d	line:369
+Ubrr19200::59	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	370;"	d	line:370
+Ubrr2400::479	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	366;"	d	line:366
+Ubrr28800::39	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	371;"	d	line:371
+Ubrr300::3839	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	363;"	d	line:363
+Ubrr38400::29	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	372;"	d	line:372
+Ubrr4800::239	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	367;"	d	line:367
+Ubrr57600::19	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	373;"	d	line:373
+Ubrr600::1919	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	364;"	d	line:364
+Ubrr9600::119	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	368;"	d	line:368
+VACUUM_TASKS_H	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	2;"	d	line:2
+Val	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	103;"	m	line:103	union:_BYTE_VAL
+Val	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	119;"	m	line:119	union:_WORD_VAL
+Val	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	150;"	m	line:150	union:_DWORD_VAL
+WORD	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	95;"	t	line:95
+WORD_VAL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	146;"	t	line:146
+WRITE_DATA::0x3C	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	29;"	d	line:29	file:
+WheelDropAll::0x1C	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	323;"	d	line:323
+WheelDropFront::0x10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	316;"	d	line:316
+WheelDropLeft::0x08	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	317;"	d	line:317
+WheelDropRight::0x04	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	318;"	d	line:318
+X_MSB::0x03	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	32;"	d	line:32	file:
+_BYTE_VAL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	101;"	u	line:101
+_DWORD_VAL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	148;"	u	line:148
+_SENSORS	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	243;"	u	line:243
+_SENSOR_DATA	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	203;"	s	line:203
+_WORD_VAL	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	117;"	u	line:117
+__init	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	712;"	f	line:712	signature:( void )
+abs_speed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	76;"	v	line:76	file:
+arbiterSTACK_SIZE::configMINIMAL_STACK_SIZE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	44;"	d	line:44
+avgCount	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	67;"	v	line:67	file:
+avg_emf	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	77;"	v	line:77	file:
+azimuth	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	46;"	v	line:46
+azimuth_temp	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	143;"	l	line:143
+b0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	106;"	m	line:106	struct:_BYTE_VAL::<anonymous>
+b0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	129;"	m	line:129	struct:_WORD_VAL::<anonymous>
+b0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	168;"	m	line:168	struct:_DWORD_VAL::<anonymous>
+b1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	107;"	m	line:107	struct:_BYTE_VAL::<anonymous>
+b1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	130;"	m	line:130	struct:_WORD_VAL::<anonymous>
+b1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	169;"	m	line:169	struct:_DWORD_VAL::<anonymous>
+b10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	139;"	m	line:139	struct:_WORD_VAL::<anonymous>
+b10	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	178;"	m	line:178	struct:_DWORD_VAL::<anonymous>
+b11	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	140;"	m	line:140	struct:_WORD_VAL::<anonymous>
+b11	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	179;"	m	line:179	struct:_DWORD_VAL::<anonymous>
+b12	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	141;"	m	line:141	struct:_WORD_VAL::<anonymous>
+b12	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	180;"	m	line:180	struct:_DWORD_VAL::<anonymous>
+b13	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	142;"	m	line:142	struct:_WORD_VAL::<anonymous>
+b13	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	181;"	m	line:181	struct:_DWORD_VAL::<anonymous>
+b14	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	143;"	m	line:143	struct:_WORD_VAL::<anonymous>
+b14	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	182;"	m	line:182	struct:_DWORD_VAL::<anonymous>
+b15	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	144;"	m	line:144	struct:_WORD_VAL::<anonymous>
+b15	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	183;"	m	line:183	struct:_DWORD_VAL::<anonymous>
+b16	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	184;"	m	line:184	struct:_DWORD_VAL::<anonymous>
+b17	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	185;"	m	line:185	struct:_DWORD_VAL::<anonymous>
+b18	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	186;"	m	line:186	struct:_DWORD_VAL::<anonymous>
+b19	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	187;"	m	line:187	struct:_DWORD_VAL::<anonymous>
+b2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	108;"	m	line:108	struct:_BYTE_VAL::<anonymous>
+b2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	131;"	m	line:131	struct:_WORD_VAL::<anonymous>
+b2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	170;"	m	line:170	struct:_DWORD_VAL::<anonymous>
+b20	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	188;"	m	line:188	struct:_DWORD_VAL::<anonymous>
+b21	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	189;"	m	line:189	struct:_DWORD_VAL::<anonymous>
+b22	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	190;"	m	line:190	struct:_DWORD_VAL::<anonymous>
+b23	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	191;"	m	line:191	struct:_DWORD_VAL::<anonymous>
+b24	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	192;"	m	line:192	struct:_DWORD_VAL::<anonymous>
+b25	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	193;"	m	line:193	struct:_DWORD_VAL::<anonymous>
+b26	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	194;"	m	line:194	struct:_DWORD_VAL::<anonymous>
+b27	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	195;"	m	line:195	struct:_DWORD_VAL::<anonymous>
+b28	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	196;"	m	line:196	struct:_DWORD_VAL::<anonymous>
+b29	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	197;"	m	line:197	struct:_DWORD_VAL::<anonymous>
+b2r	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	63;"	v	line:63	file:
+b3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	109;"	m	line:109	struct:_BYTE_VAL::<anonymous>
+b3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	132;"	m	line:132	struct:_WORD_VAL::<anonymous>
+b3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	171;"	m	line:171	struct:_DWORD_VAL::<anonymous>
+b30	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	198;"	m	line:198	struct:_DWORD_VAL::<anonymous>
+b31	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	199;"	m	line:199	struct:_DWORD_VAL::<anonymous>
+b4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	110;"	m	line:110	struct:_BYTE_VAL::<anonymous>
+b4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	133;"	m	line:133	struct:_WORD_VAL::<anonymous>
+b4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	172;"	m	line:172	struct:_DWORD_VAL::<anonymous>
+b5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	111;"	m	line:111	struct:_BYTE_VAL::<anonymous>
+b5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	134;"	m	line:134	struct:_WORD_VAL::<anonymous>
+b5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	173;"	m	line:173	struct:_DWORD_VAL::<anonymous>
+b6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	112;"	m	line:112	struct:_BYTE_VAL::<anonymous>
+b6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	135;"	m	line:135	struct:_WORD_VAL::<anonymous>
+b6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	174;"	m	line:174	struct:_DWORD_VAL::<anonymous>
+b7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	113;"	m	line:113	struct:_BYTE_VAL::<anonymous>
+b7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	136;"	m	line:136	struct:_WORD_VAL::<anonymous>
+b7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	175;"	m	line:175	struct:_DWORD_VAL::<anonymous>
+b8	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	137;"	m	line:137	struct:_WORD_VAL::<anonymous>
+b8	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	176;"	m	line:176	struct:_DWORD_VAL::<anonymous>
+b9	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	138;"	m	line:138	struct:_WORD_VAL::<anonymous>
+b9	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	177;"	m	line:177	struct:_DWORD_VAL::<anonymous>
+bCliffFrontLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	208;"	m	line:208	struct:_SENSOR_DATA
+bCliffFrontRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	209;"	m	line:209	struct:_SENSOR_DATA
+bCliffLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	207;"	m	line:207	struct:_SENSOR_DATA
+bCliffRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	210;"	m	line:210	struct:_SENSOR_DATA
+bVirtualWall	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	211;"	m	line:211	struct:_SENSOR_DATA
+bWall	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	206;"	m	line:206	struct:_SENSOR_DATA
+behaviorPriority	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	59;"	v	line:59	file:
+bits	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	114;"	m	line:114	union:_BYTE_VAL
+bits	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	145;"	m	line:145	union:_WORD_VAL
+bits	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	200;"	m	line:200	union:_DWORD_VAL
+byte	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	126;"	m	line:126	union:_WORD_VAL
+byte	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	165;"	m	line:165	union:_DWORD_VAL
+byte	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	249;"	m	line:249	struct:_SENSORS::<anonymous>
+cBatteryTemp	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	222;"	m	line:222	struct:_SENSOR_DATA
+cByteRxed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	63;"	l	line:63
+cByteRxed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	214;"	l	line:214
+cChar	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	282;"	l	line:282
+cChar	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	316;"	l	line:316
+cStatus	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1972;"	l	line:1972
+cTaskWoken	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	316;"	l	line:316
+cmdByte	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	63;"	l	line:63
+cmdByte	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	112;"	l	line:112
+cmdState	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	34;"	v	line:34	file:
+comBUFFER_LEN::((unsignedportBASE_TYPE)128)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	108;"	d	line:108
+comNO_BLOCK::((portTickType)0)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	112;"	d	line:112
+comRX_BLOCK_TIME::portMAX_DELAY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	115;"	d	line:115
+comSTACK_SIZE::0x120	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	41;"	d	line:41
+compass_task_handle	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	45;"	v	line:45
+configCPU_CLOCK_HZ::((unsignedportLONG)32000000)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	69;"	d	line:69
+configIDLE_SHOULD_YIELD::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	76;"	d	line:76
+configMAX_CO_ROUTINE_PRIORITIES::(2)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	80;"	d	line:80
+configMAX_PRIORITIES::((unsignedportBASE_TYPE)4)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	70;"	d	line:70
+configMAX_TASK_NAME_LEN::(1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	73;"	d	line:73
+configMINIMAL_STACK_SIZE::(256)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	71;"	d	line:71
+configTICK_RATE_HZ::((portTickType)1000)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	68;"	d	line:68
+configTOTAL_HEAP_SIZE::((size_t)3200-4)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	72;"	d	line:72
+configUSE_16_BIT_TICKS::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	75;"	d	line:75
+configUSE_CO_ROUTINES::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	79;"	d	line:79
+configUSE_IDLE_HOOK::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	66;"	d	line:66
+configUSE_PREEMPTION::1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	65;"	d	line:65
+configUSE_TICK_HOOK::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	67;"	d	line:67
+configUSE_TRACE_FACILITY::0	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\FreeRTOSConfig.h	74;"	d	line:74
+convert_azimuth	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	141;"	f	line:141	signature:(void)
+corCRCB	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	80;"	t	line:80
+corCoRoutineControlBlock	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	72;"	s	line:72
+crCOROUTINE_CODE	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	70;"	t	line:70
+crDELAY::(xHandle,xTicksToDelay)	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	318;"	d	line:318
+crEND::}	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	258;"	d	line:258
+crQUEUE_RECEIVE::(xHandle,pxQueue,pvBuffer,xTic	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	508;"	d	line:508
+crQUEUE_RECEIVE_FROM_ISR::(pxQueue,pvBuffer,pxCoRoutineW	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	717;"	d	line:717
+crQUEUE_SEND::(xHandle,pxQueue,pvItemToQueue	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	416;"	d	line:416
+crQUEUE_SEND_FROM_ISR::(pxQueue,pvItemToQueue,xCoRout	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	604;"	d	line:604
+crSET_STATE0::(xHandle)((corCRCB*)xHandle)->	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	264;"	d	line:264
+crSET_STATE1::(xHandle)((corCRCB*)xHandle)->	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	265;"	d	line:265
+crSTART::(pxCRCB)switch(((corCRCB*)pxCR	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	227;"	d	line:227
+current_distance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	80;"	v	line:80	file:
+current_heading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	284;"	f	line:284	signature:(void)
+current_heading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	17;"	p	line:17	signature:(void)
+current_velocity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	79;"	v	line:79	file:
+dDummy	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	87;"	m	line:87	union:xRTOS_HEAP	file:
+degrees_turn	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	884;"	l	line:884
+delta_time	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	78;"	v	line:78	file:
+distance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	886;"	l	line:886
+distance_delta_accumulator	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	81;"	v	line:81	file:
+eBaud	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	96;"	t	line:96
+eCOMPort	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	52;"	t	line:52
+eDataBits	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	75;"	t	line:75
+eParity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	61;"	t	line:61
+eStopBits	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	67;"	t	line:67
+errCOULD_NOT_ALLOCATE_REQUIRED_MEMORY::(-1)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	63;"	d	line:63
+errNO_TASK_TO_RUN::(-2)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	64;"	d	line:64
+errQUEUE_BLOCKED::(-4)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	65;"	d	line:65
+errQUEUE_EMPTY::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	59;"	d	line:59
+errQUEUE_FULL::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	60;"	d	line:60
+errQUEUE_YIELD::(-5)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	66;"	d	line:66
+escapeState	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	73;"	v	line:73	file:
+escape_task	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\main.c	30;"	v	line:30
+flush_data	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	80;"	l	line:80
+get_raw_reading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	94;"	f	line:94	signature:(void)
+heading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	888;"	l	line:888
+heading_degrees	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	54;"	v	line:54	file:
+heapBYTE_ALIGNMENT_MASK::((size_t)0x0000)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	75;"	d	line:75	file:
+heapBYTE_ALIGNMENT_MASK::((size_t)0x0001)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	71;"	d	line:71	file:
+heapBYTE_ALIGNMENT_MASK::((size_t)0x0003)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	67;"	d	line:67	file:
+heapBYTE_ALIGNMENT_MASK::((size_t)0x0007)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	63;"	d	line:63	file:
+i	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	218;"	l	line:218
+i	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	94;"	l	line:94
+i	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	62;"	l	line:62
+i	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	188;"	l	line:188
+i	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	112;"	l	line:112
+iAngleTraveled	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	218;"	m	line:218	struct:_SENSOR_DATA
+iCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	221;"	m	line:221	struct:_SENSOR_DATA
+iDistanceTraveled	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	217;"	m	line:217	struct:_SENSOR_DATA
+iRequestedLeftVelocity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	240;"	m	line:240	struct:_SENSOR_DATA
+iRequestedRadius	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	238;"	m	line:238	struct:_SENSOR_DATA
+iRequestedRightVelocity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	239;"	m	line:239	struct:_SENSOR_DATA
+iRequestedVelocity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	237;"	m	line:237	struct:_SENSOR_DATA
+iRobotCmd	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	85;"	p	line:85	file:	signature:( unsigned portCHAR )
+iRobotCmd	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	107;"	f	line:107	signature:( unsigned portCHAR cByteRxed )
+iVelocityLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	428;"	f	line:428	signature:( void )
+iVelocityLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	10;"	p	line:10	signature:( void )
+iVelocityRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	433;"	f	line:433	signature:( void )
+iVelocityRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	11;"	p	line:11	signature:( void )
+idle_task	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	62;"	v	line:62
+init_compass	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	62;"	f	line:62	signature:(void)
+init_compass	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	23;"	p	line:23	signature:(void)
+input_heading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	117;"	l	line:117
+last_heading_degrees	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	55;"	v	line:55	file:
+leDistance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	42;"	v	line:42	file:
+leDistance	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	116;"	l	line:116
+leLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	41;"	v	line:41	file:
+leLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	114;"	l	line:114
+leRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	39;"	v	line:39	file:
+leRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	113;"	l	line:113
+ledSTACK_SIZE::configMINIMAL_STACK_SIZE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	42;"	d	line:42
+led_task	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\main.c	29;"	v	line:29
+leftEscapeSpeed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	71;"	v	line:71	file:
+left_motor	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	77;"	m	line:77	struct:MOTOR_CONTROL_REQUESTS
+listCURRENT_LIST_LENGTH::(pxList)((pxList)->uxNumberOfI	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	160;"	d	line:160
+listGET_LIST_ITEM_VALUE::(pxListItem)((pxListItem)->xIt	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	146;"	d	line:146
+listGET_OWNER_OF_HEAD_ENTRY::(pxList)((pxList->uxNumberOfIt	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	211;"	d	line:211
+listGET_OWNER_OF_NEXT_ENTRY::(pxTCB,pxList)	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	192;"	d	line:192
+listIS_CONTAINED_WITHIN::(pxList,pxListItem)((pxListIte	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	223;"	d	line:223
+listLIST_IS_EMPTY::(pxList)((pxList)->uxNumberOfI	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	155;"	d	line:155
+listSET_LIST_ITEM_OWNER::(pxListItem,pxOwner)(pxListIte	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	127;"	d	line:127
+listSET_LIST_ITEM_VALUE::(pxListItem,xValue)(pxListItem	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	136;"	d	line:136
+main	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\main.c	38;"	f	line:38	signature:( void )
+mainBAUD_RATE::((unsignedportLONG)57600)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	107;"	d	line:107
+mainCHECK_TASK_LED::((unsignedportBASE_TYPE)1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	53;"	d	line:53	file:
+mainCOMMS_QUEUE_LENGTH::((unsignedportBASE_TYPE)5)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\main.c	26;"	d	line:26	file:
+motorControl	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	57;"	v	line:57	file:
+motorCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	68;"	v	line:68	file:
+motorSTACK_SIZE::0x120	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	43;"	d	line:43
+motor_drive	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	689;"	f	line:689	file:	signature:( struct MOTOR_CONTROL_REQUESTS *motor_parameters )
+motor_drive	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	87;"	p	line:87	file:	signature:( struct MOTOR_CONTROL_REQUESTS *motor_parameters )
+motor_left_speed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	266;"	f	line:266	file:	signature:(unsigned int time_in)
+motor_right_speed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	275;"	f	line:275	file:	signature:(unsigned int time_in)
+motor_string	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	36;"	v	line:36	file:
+motor_task	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\main.c	32;"	v	line:32
+new_radius	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	883;"	l	line:883
+odometer	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	48;"	v	line:48
+pcEndOfStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2056;"	l	line:2056
+pcHead	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	86;"	m	line:86	struct:QueueDefinition	file:
+pcOriginalReadPosition	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	626;"	l	line:626
+pcOriginalReadPosition	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	803;"	l	line:803
+pcQueueName	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	156;"	m	line:156	struct:QUEUE_REGISTRY_ITEM	file:
+pcReadFrom	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	90;"	m	line:90	struct:QueueDefinition	file:
+pcStatsString	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	151;"	v	line:151	file:
+pcStatusString	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	184;"	v	line:184	file:
+pcTail	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	87;"	m	line:87	struct:QueueDefinition	file:
+pcTaskName	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	75;"	m	line:75	struct:tskTaskControlBlock	file:
+pcTraceBuffer	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	179;"	v	line:179	file:
+pcTraceBufferEnd	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	181;"	v	line:181	file:
+pcTraceBufferStart	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	180;"	v	line:180	file:
+pcWriteTo	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	89;"	m	line:89	struct:QueueDefinition	file:
+pdFAIL::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	58;"	d	line:58
+pdFALSE::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	55;"	d	line:55
+pdPASS::(1)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	57;"	d	line:57
+pdTASK_CODE	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	52;"	t	line:52
+pdTRUE::(1)	C:\Projects\RoboDetector\FreeRTOS\Source\include\projdefs.h	54;"	d	line:54
+pll_startup_counter	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	719;"	l	line:719
+portBASE_TYPE::char	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	68;"	d	line:68
+portBIT_CLEAR::((unsignedportCHAR)0)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	121;"	d	line:121	file:
+portBIT_SET::((unsignedportCHAR)1)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	120;"	d	line:120	file:
+portBYTE_ALIGNMENT::1	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	80;"	d	line:80
+portCHAR::char	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	62;"	d	line:62
+portCOMPILER_MANAGED_MEMORY_SIZE::((unsignedportCHAR)0x33)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	112;"	d	line:112	file:
+portDISABLE_INTERRUPTS::INTCON&=0x7F;	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	89;"	d	line:89
+portDOUBLE::double	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	64;"	d	line:64
+portENABLE_INTERRUPTS::INTCON|=0xC0;	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	90;"	d	line:90
+portENTER_CRITICAL::POSTINC1=INTCON;	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	95;"	d	line:95
+portEXIT_CRITICAL::_asm	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	106;"	d	line:106
+portFLOAT::float	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	63;"	d	line:63
+portGLOBAL_INTERRUPT_FLAG::0xC0	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	102;"	d	line:102	file:
+portGLOBAL_INT_ENABLE_BIT::0x80	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	81;"	d	line:81
+portINITAL_INTERRUPT_STATE::0xc0	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	99;"	d	line:99	file:
+portINTERRUPTS_UNCHANGED::0x00	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	106;"	d	line:106	file:
+portLONG::long	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	65;"	d	line:65
+portMAX_DELAY::(portTickType)0xffff	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	72;"	d	line:72
+portMAX_DELAY::(portTickType)0xffffffff	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	75;"	d	line:75
+portNOP::_asm	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	127;"	d	line:127
+portREMOVE_STATIC_QUALIFIER	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	121;"	d	line:121
+portRESTORE_CONTEXT::	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	433;"	d	line:433	file:
+portSAVE_CONTEXT::(ucForcedInterruptFlags)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	294;"	d	line:294	file:
+portSHORT::int	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	66;"	d	line:66
+portSTACK_GROWTH::1	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	82;"	d	line:82
+portSTACK_TYPE::unsignedchar	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	67;"	d	line:67
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	265;"	f	line:265
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	291;"	f	line:291
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	812;"	f	line:812
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	109;"	f	line:109
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	60;"	f	line:60
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	209;"	f	line:209
+portTASK_FUNCTION	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1740;"	f	line:1740	file:
+portTASK_FUNCTION::(vFunction,pvParameters)voidvF	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	116;"	d	line:116
+portTASK_FUNCTION_PROTO	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	307;"	p	line:307	file:
+portTASK_FUNCTION_PROTO::(vFunction,pvParameters)voidvF	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	115;"	d	line:115
+portTICK_RATE_MS::((portTickType)1000/configTICK	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	83;"	d	line:83
+portTIMER_FOSC_SCALE::((unsignedportLONG)64)	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	94;"	d	line:94	file:
+portTIMER_RELOAD::(65536L-(configCPU_CLOCK_HZ/po	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	95;"	d	line:95	file:
+portTickType	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	71;"	t	line:71
+portTickType	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	74;"	t	line:74
+portYIELD::vPortYield	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	111;"	d	line:111
+prvAddTaskToReadyQueue::(pxTCB)	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	241;"	d	line:241	file:
+prvAllocateTCBAndStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1927;"	f	line:1927	file:	signature:( unsigned portSHORT usStackDepth )
+prvAllocateTCBAndStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	333;"	p	line:333	file:	signature:( unsigned portSHORT usStackDepth )
+prvCheckDelayedTasks::	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	270;"	d	line:270	file:
+prvCheckTasksWaitingTermination	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1892;"	f	line:1892	file:	signature:( void )
+prvCheckTasksWaitingTermination	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	327;"	p	line:327	file:	signature:( void )
+prvCopyDataFromQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1066;"	f	line:1066	file:	signature:( xQUEUE * const pxQueue, const void *pvBuffer )
+prvCopyDataFromQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	204;"	p	line:204	file:	signature:( xQUEUE * const pxQueue, const void *pvBuffer )
+prvCopyDataToQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1028;"	f	line:1028	file:	signature:( xQUEUE *pxQueue, const void *pvItemToQueue, portBASE_TYPE xPosition )
+prvCopyDataToQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	199;"	p	line:199	file:	signature:( xQUEUE *pxQueue, const void *pvItemToQueue, portBASE_TYPE xPosition )
+prvDeleteTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2078;"	f	line:2078	file:	signature:( tskTCB *pxTCB )
+prvDeleteTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	318;"	p	line:318	file:	signature:( tskTCB *pxTCB )
+prvGenerateRunTimeStatsForTasksInList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	153;"	p	line:153	file:	signature:( const signed portCHAR *pcWriteBuffer, xList *pxList, unsigned portLONG ulTotalRunTime )
+prvGenerateRunTimeStatsForTasksInList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1983;"	f	line:1983	file:	signature:( const signed portCHAR *pcWriteBuffer, xList *pxList, unsigned portLONG ulTotalRunTime )
+prvGetTCBFromHandle::(pxHandle)((pxHandle==NULL)?(t	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	279;"	d	line:279	file:
+prvInitialiseTCBVariables	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1805;"	f	line:1805	file:	signature:( tskTCB *pxTCB, const signed portCHAR * const pcName, unsigned portBASE_TYPE uxPriority )
+prvInitialiseTCBVariables	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	288;"	p	line:288	file:	signature:( tskTCB *pxTCB, const signed portCHAR * const pcName, unsigned portBASE_TYPE uxPriority )
+prvInitialiseTaskLists	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1860;"	f	line:1860	file:	signature:( void )
+prvInitialiseTaskLists	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	294;"	p	line:294	file:	signature:( void )
+prvIsQueueEmpty	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1144;"	f	line:1144	file:	signature:( const xQueueHandle pxQueue )
+prvIsQueueEmpty	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	186;"	p	line:186	file:	signature:( const xQueueHandle pxQueue )
+prvIsQueueFull	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1166;"	f	line:1166	file:	signature:( const xQueueHandle pxQueue )
+prvIsQueueFull	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	193;"	p	line:193	file:	signature:( const xQueueHandle pxQueue )
+prvListTaskWithinSingleList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1961;"	f	line:1961	file:	signature:( const signed portCHAR *pcWriteBuffer, xList *pxList, signed portCHAR cStatus )
+prvListTaskWithinSingleList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	346;"	p	line:346	file:	signature:( const signed portCHAR *pcWriteBuffer, xList *pxList, signed portCHAR cStatus )
+prvLockQueue::(pxQueue)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	225;"	d	line:225	file:
+prvLowInterrupt	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	149;"	p	line:149	file:	signature:( void )
+prvLowInterrupt	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	625;"	f	line:625	signature:( void )
+prvSetupTimerInterrupt	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	136;"	p	line:136	file:	signature:( void )
+prvSetupTimerInterrupt	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	702;"	f	line:702	file:	signature:( void )
+prvTickISR	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	142;"	p	line:142	file:	signature:( void )
+prvTickISR	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	675;"	f	line:675	file:	signature:( void )
+prvUnlockQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1080;"	f	line:1080	file:	signature:( xQueueHandle pxQueue )
+prvUnlockQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	179;"	p	line:179	file:	signature:( xQueueHandle pxQueue )
+pvContainer	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	98;"	m	line:98	struct:xLIST_ITEM
+pvOwner	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	97;"	m	line:97	struct:xLIST_ITEM
+pvPortMalloc	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	231;"	p	line:231	signature:( size_t xSize )
+pvPortMalloc	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	97;"	f	line:97	signature:( size_t xWantedSize )
+pvReturn	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	99;"	l	line:99
+pxCoRoutineFunction	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	74;"	m	line:74	struct:corCoRoutineControlBlock
+pxCurrentTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	113;"	v	line:113
+pxDelayedTaskList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	120;"	v	line:120	file:
+pxEndOfStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	78;"	m	line:78	struct:tskTaskControlBlock	file:
+pxFirstTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1963;"	l	line:1963
+pxFirstTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1985;"	l	line:1985
+pxHandle	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	417;"	l	line:417
+pxISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	193;"	t	line:193
+pxISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	201;"	t	line:201
+pxISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	48;"	t	line:48
+pxISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	53;"	t	line:53
+pxIndex	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	116;"	m	line:116	struct:xLIST
+pxIndex	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	86;"	l	line:86
+pxIterator	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	109;"	l	line:109
+pxList	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	166;"	l	line:166
+pxMutexHolder::pcTail	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	69;"	d	line:69	file:
+pxNewQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	235;"	l	line:235
+pxNewQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	288;"	l	line:288
+pxNewTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1929;"	l	line:1929
+pxNewTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	373;"	l	line:373
+pxNext	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	105;"	m	line:105	struct:xMINI_LIST_ITEM
+pxNext	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	95;"	m	line:95	struct:xLIST_ITEM
+pxNextTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1963;"	l	line:1963
+pxNextTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1985;"	l	line:1985
+pxOverflowDelayedTaskList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	121;"	v	line:121	file:
+pxPortInitialiseStack	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	226;"	p	line:226	signature:( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )
+pxPortInitialiseStack	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	439;"	f	line:439	signature:( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )
+pxPrevious	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	106;"	m	line:106	struct:xMINI_LIST_ITEM
+pxPrevious	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	96;"	m	line:96	struct:xLIST_ITEM
+pxReadyTasksLists	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	117;"	v	line:117	file:
+pxStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	74;"	m	line:74	struct:tskTaskControlBlock	file:
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1044;"	l	line:1044
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1378;"	l	line:1378
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1908;"	l	line:1908
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2055;"	l	line:2055
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2137;"	l	line:2137
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2169;"	l	line:2169
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	497;"	l	line:497
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	701;"	l	line:701
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	723;"	l	line:723
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	828;"	l	line:828
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	872;"	l	line:872
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	902;"	l	line:902
+pxTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	945;"	l	line:945
+pxTaskTag	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	94;"	m	line:94	struct:tskTaskControlBlock	file:
+pxTemp	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1327;"	l	line:1327
+pxTopOfStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	381;"	l	line:381
+pxTopOfStack	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	70;"	m	line:70	struct:tskTaskControlBlock	file:
+pxUnblockedTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1629;"	l	line:1629
+queueDONT_BLOCK::((portTickType)0)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	77;"	d	line:77	file:
+queueERRONEOUS_UNBLOCK::(-1)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	62;"	d	line:62	file:
+queueLOCKED_UNMODIFIED::((signedportBASE_TYPE)0)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	60;"	d	line:60	file:
+queueMUTEX_GIVE_BLOCK_TIME::((portTickType)0)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	78;"	d	line:78	file:
+queueQUEUE_IS_MUTEX::NULL	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	72;"	d	line:72	file:
+queueSEMAPHORE_QUEUE_ITEM_LENGTH::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	76;"	d	line:76	file:
+queueSEND_TO_BACK::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	64;"	d	line:64
+queueSEND_TO_BACK::(0)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	65;"	d	line:65	file:
+queueSEND_TO_FRONT::(1)	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	65;"	d	line:65
+queueSEND_TO_FRONT::(1)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	66;"	d	line:66	file:
+queueUNLOCKED::((signedportBASE_TYPE)-1)	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	59;"	d	line:59	file:
+radians_turn	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	885;"	l	line:885
+radius_turn::leRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	40;"	d	line:40	file:
+rightEscapeSpeed	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	72;"	v	line:72	file:
+right_motor	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	78;"	m	line:78	struct:MOTOR_CONTROL_REQUESTS
+rx_status	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	283;"	l	line:283
+sVal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	120;"	m	line:120	union:_WORD_VAL
+sVal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	151;"	m	line:151	union:_DWORD_VAL
+script	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	49;"	v	line:49
+scriptSTACKSIZE::configMINIMAL_STACK_SIZE	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	45;"	d	line:45
+scriptSize	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	37;"	v	line:37	file:
+script_heading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	43;"	v	line:43	file:
+script_index	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	38;"	v	line:38	file:
+script_task	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\main.c	31;"	v	line:31
+sensor	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	245;"	m	line:245	union:_SENSORS
+sensorPacket	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	52;"	v	line:52
+ser110	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	81;"	e	line:81
+ser115200	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	95;"	e	line:95
+ser1200	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	87;"	e	line:87
+ser134	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	82;"	e	line:82
+ser150	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	83;"	e	line:83
+ser1800	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	88;"	e	line:88
+ser19200	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	92;"	e	line:92
+ser200	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	84;"	e	line:84
+ser2400	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	89;"	e	line:89
+ser300	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	85;"	e	line:85
+ser38400	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	93;"	e	line:93
+ser4800	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	90;"	e	line:90
+ser50	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	79;"	e	line:79
+ser57600	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	94;"	e	line:94
+ser600	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	86;"	e	line:86
+ser75	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	80;"	e	line:80
+ser9600	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	91;"	e	line:91
+serBITS_5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	71;"	e	line:71
+serBITS_6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	72;"	e	line:72
+serBITS_7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	73;"	e	line:73
+serBITS_8	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	74;"	e	line:74
+serCLEAR_OVERRUN::((unsignedportSHORT)0)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	69;"	d	line:69	file:
+serCOM1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	44;"	e	line:44
+serCOM2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	45;"	e	line:45
+serCOM3	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	46;"	e	line:46
+serCOM4	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	47;"	e	line:47
+serCOM5	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	48;"	e	line:48
+serCOM6	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	49;"	e	line:49
+serCOM7	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	50;"	e	line:50
+serCOM8	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	51;"	e	line:51
+serCONTINUOUS_RX::((unsignedportSHORT)1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	68;"	d	line:68	file:
+serEVEN_PARITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	58;"	e	line:58
+serHIGH_SPEED::((unsignedportSHORT)1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	67;"	d	line:67	file:
+serINPUT::(1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	63;"	d	line:63	file:
+serINTERRUPT_DISABLED::((unsignedportSHORT)0)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	71;"	d	line:71	file:
+serINTERRUPT_ENABLED::((unsignedportSHORT)1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	70;"	d	line:70	file:
+serLOW_PRIORITY::(0)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	74;"	d	line:74	file:
+serMARK_PARITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	59;"	e	line:59
+serNO_PARITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	56;"	e	line:56
+serODD_PARITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	57;"	e	line:57
+serOUTPUT::(0)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	64;"	d	line:64	file:
+serRX_ENABLE::((unsignedportSHORT)1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	66;"	d	line:66	file:
+serSPACE_PARITY	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	60;"	e	line:60
+serSTOP_1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	65;"	e	line:65
+serSTOP_2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	66;"	e	line:66
+serTX_ENABLE::((unsignedportSHORT)1)	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	65;"	d	line:65	file:
+songs	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	48;"	v	line:48
+speedLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	64;"	v	line:64	file:
+speedRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	65;"	v	line:65	file:
+static	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	108;"	d	line:108	file:
+status	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	81;"	l	line:81
+string_size	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	37;"	v	line:37	file:
+taskDISABLE_INTERRUPTS::portDISABLE_INTERRUPTS	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	145;"	d	line:145
+taskENABLE_INTERRUPTS::portENABLE_INTERRUPTS	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	155;"	d	line:155
+taskENTER_CRITICAL::portENTER_CRITICAL	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	121;"	d	line:121
+taskEXIT_CRITICAL::portEXIT_CRITICAL	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	135;"	d	line:135
+taskSCHEDULER_NOT_STARTED::0	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	158;"	d	line:158
+taskSCHEDULER_RUNNING::1	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	159;"	d	line:159
+taskSCHEDULER_SUSPENDED::2	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	160;"	d	line:160
+taskYIELD::portYIELD	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	107;"	d	line:107
+timeOut	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	69;"	v	line:69	file:
+tskBLOCKED_CHAR::((signedportCHAR)'B')	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	168;"	d	line:168	file:
+tskDELETED_CHAR::((signedportCHAR)'D')	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	170;"	d	line:170	file:
+tskIDLE_PRIORITY::((unsignedportBASE_TYPE)0)	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	97;"	d	line:97
+tskIDLE_STACK_SIZE::configMINIMAL_STACK_SIZE	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	60;"	d	line:60	file:
+tskKERNEL_VERSION_NUMBER::"V5.4.0"	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	69;"	d	line:69
+tskREADY_CHAR::((signedportCHAR)'R')	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	169;"	d	line:169	file:
+tskSIZE_OF_EACH_TRACE_LINE::((unsignedportLONG)(sizeof(uns	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	178;"	d	line:178	file:
+tskSTACK_FILL_BYTE::(0xa5)	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	163;"	d	line:163	file:
+tskSUSPENDED_CHAR::((signedportCHAR)'S')	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	171;"	d	line:171	file:
+tskTCB	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	116;"	t	line:116	file:
+tskTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	101;"	t	line:101	file:
+tskTaskControlBlock	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	68;"	s	line:68	file:
+turn_delta	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	57;"	v	line:57	file:
+turn_delta_accumulator	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	56;"	v	line:56	file:
+turn_delta_test	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	58;"	v	line:58	file:
+turn_radius::leRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\iRobotCmd.c	115;"	d	line:115	file:
+uart_rx_task	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	33;"	v	line:33
+ucBlock	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	442;"	l	line:442
+ucBumpDrop	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	205;"	m	line:205	struct:_SENSOR_DATA
+ucButtons	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	216;"	m	line:216	struct:_SENSOR_DATA
+ucChargingSource	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	232;"	m	line:232	struct:_SENSOR_DATA
+ucChargingState	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	219;"	m	line:219	struct:_SENSOR_DATA
+ucDigitalInputs	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	230;"	m	line:230	struct:_SENSOR_DATA
+ucHeap	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	91;"	m	line:91	union:xRTOS_HEAP	file:
+ucInfraredRX	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	215;"	m	line:215	struct:_SENSOR_DATA
+ucNumberofStreamPackets	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	236;"	m	line:236	struct:_SENSOR_DATA
+ucOIMode	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	233;"	m	line:233	struct:_SENSOR_DATA
+ucOverCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	212;"	m	line:212	struct:_SENSOR_DATA
+ucSongNumber	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	234;"	m	line:234	struct:_SENSOR_DATA
+ucSongPlaying	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	235;"	m	line:235	struct:_SENSOR_DATA
+ucUnused1	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	213;"	m	line:213	struct:_SENSOR_DATA
+ucUnused2	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	214;"	m	line:214	struct:_SENSOR_DATA
+uiAnalogSignal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	231;"	m	line:231	struct:_SENSOR_DATA
+uiBatteryCapacity	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	224;"	m	line:224	struct:_SENSOR_DATA
+uiBatteryCharge	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	223;"	m	line:223	struct:_SENSOR_DATA
+uiBatteryVoltage	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	220;"	m	line:220	struct:_SENSOR_DATA
+uiCliffFrontLeftSignal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	227;"	m	line:227	struct:_SENSOR_DATA
+uiCliffFrontRightSignal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	228;"	m	line:228	struct:_SENSOR_DATA
+uiCliffLeftSignal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	226;"	m	line:226	struct:_SENSOR_DATA
+uiCliffRightSignal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	229;"	m	line:229	struct:_SENSOR_DATA
+uiLeftCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	408;"	f	line:408	signature:( void )
+uiLeftCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	6;"	p	line:6	signature:( void )
+uiLeftEMF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	418;"	f	line:418	signature:( void )
+uiLeftEMF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	8;"	p	line:8	signature:( void )
+uiRightCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	413;"	f	line:413	signature:( void )
+uiRightCurrent	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	7;"	p	line:7	signature:( void )
+uiRightEMF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	423;"	f	line:423	signature:( void )
+uiRightEMF	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	9;"	p	line:9	signature:( void )
+uiWallSignal	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	225;"	m	line:225	struct:_SENSOR_DATA
+ulAddress	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	441;"	l	line:441
+ulBufferLength	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1296;"	l	line:1296
+ulRunTimeCounter	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	98;"	m	line:98	struct:tskTaskControlBlock	file:
+ulStatsAsPercentage	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1986;"	l	line:1986
+ulTaskEndTrace	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	923;"	p	line:923	signature:( void )
+ulTaskEndTrace	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1294;"	f	line:1294	signature:( void )
+ulTaskSwitchedInTime	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	152;"	v	line:152	file:
+ulTempCounter	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1527;"	l	line:1527
+ulTotalRunTime	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1215;"	l	line:1215
+update_turn_angle	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	202;"	f	line:202	signature:(void)
+usCount	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2035;"	l	line:2035
+usQueue	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1377;"	l	line:1377
+usStackRemaining	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1964;"	l	line:1964
+usStackRemaining	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1972;"	l	line:1972
+usTaskCheckFreeStackSpace	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2033;"	f	line:2033	signature:( const unsigned portCHAR * pucStackByte )
+usTaskCheckFreeStackSpace	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	357;"	p	line:357	file:	signature:( const unsigned portCHAR * pucStackByte )
+ux	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1404;"	l	line:1404
+ux	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1427;"	l	line:1427
+uxBasePriority	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	90;"	m	line:90	struct:tskTaskControlBlock	file:
+uxCriticalNesting	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	82;"	m	line:82	struct:tskTaskControlBlock	file:
+uxCurrentNumberOfTasks	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	138;"	v	line:138	file:
+uxCurrentPriority	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	724;"	l	line:724
+uxIndex	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	78;"	m	line:78	struct:corCoRoutineControlBlock
+uxItemSize	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	97;"	m	line:97	struct:QueueDefinition	file:
+uxLength	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	96;"	m	line:96	struct:QueueDefinition	file:
+uxMessagesWaiting	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	95;"	m	line:95	struct:QueueDefinition	file:
+uxMissedTicks	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	144;"	v	line:144	file:
+uxNumberOfItems	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	115;"	m	line:115	struct:xLIST
+uxPreviousTask	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	183;"	v	line:183	file:
+uxPriority	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	77;"	m	line:77	struct:corCoRoutineControlBlock
+uxPriority	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1862;"	l	line:1862
+uxPriority	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	73;"	m	line:73	struct:tskTaskControlBlock	file:
+uxQueue	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1151;"	l	line:1151
+uxQueue	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1214;"	l	line:1214
+uxQueueMessagesWaiting	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	761;"	p	line:761	signature:( const xQueueHandle xQueue )
+uxQueueMessagesWaiting	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	119;"	p	line:119	file:	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaiting	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	997;"	f	line:997	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaitingFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1165;"	p	line:1165	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaitingFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1009;"	f	line:1009	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaitingFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	132;"	p	line:132	file:	signature:( const xQueueHandle pxQueue )
+uxQueueSize	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	53;"	l	line:53
+uxQueueType::pcHead	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	70;"	d	line:70	file:
+uxRecursiveCallCount::pcReadFrom	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	71;"	d	line:71	file:
+uxReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1011;"	l	line:1011
+uxReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	999;"	l	line:999
+uxReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	702;"	l	line:702
+uxSavedInterruptStatus	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	749;"	l	line:749
+uxSavedInterruptStatus	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	949;"	l	line:949
+uxSchedulerSuspended	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	143;"	v	line:143	file:
+uxState	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	79;"	m	line:79	struct:corCoRoutineControlBlock
+uxTCBNumber	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	86;"	m	line:86	struct:tskTaskControlBlock	file:
+uxTaskGetNumberOfTasks	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	831;"	p	line:831	signature:( void )
+uxTaskGetNumberOfTasks	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1139;"	f	line:1139	signature:( void )
+uxTaskGetStackHighWaterMark	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	943;"	p	line:943	signature:( xTaskHandle xTask )
+uxTaskGetStackHighWaterMark	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2053;"	f	line:2053	signature:( xTaskHandle xTask )
+uxTaskNumber	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	147;"	v	line:147	file:
+uxTaskPriorityGet	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	435;"	p	line:435	signature:( xTaskHandle pxTask )
+uxTaskPriorityGet	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	699;"	f	line:699	signature:( xTaskHandle pxTask )
+uxTasksDeleted	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	127;"	v	line:127	file:
+uxTopReadyPriority	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	141;"	v	line:141	file:
+uxTopUsedPriority	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	140;"	v	line:140	file:
+v	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	121;"	m	line:121	union:_WORD_VAL
+v	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	153;"	m	line:153	union:_DWORD_VAL
+vApplicationIdleHook	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1780;"	p	line:1780	file:	signature:( void )
+vApplicationTickHook	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1349;"	p	line:1349	file:	signature:( void )
+vApplicationTickHook	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1358;"	p	line:1358	file:	signature:( void )
+vArbitrate	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	216;"	f	line:216	file:	signature:( void )
+vCoRoutineAddToDelayedList	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	728;"	p	line:728	signature:( portTickType xTicksToDelay, xList *pxEventList )
+vCoRoutineSchedule	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	196;"	p	line:196	signature:( void )
+vError	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	75;"	v	line:75	file:
+vListInitialise	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	235;"	p	line:235	signature:( xList *pxList )
+vListInitialise	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	57;"	f	line:57	signature:( xList *pxList )
+vListInitialiseItem	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	246;"	p	line:246	signature:( xListItem *pxItem )
+vListInitialiseItem	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	77;"	f	line:77	signature:( xListItem *pxItem )
+vListInsert	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	259;"	p	line:259	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsert	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	107;"	f	line:107	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsertEnd	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	280;"	p	line:280	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsertEnd	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	84;"	f	line:84	signature:( xList *pxList, xListItem *pxNewListItem )
+vListRemove	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	292;"	p	line:292	signature:( xListItem *pxItemToRemove )
+vListRemove	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	164;"	f	line:164	signature:( xListItem *pxItemToRemove )
+vMotorDrive	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	12;"	p	line:12	signature:( int leftSpeed, int rightSpeed )
+vMotorDriveLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	438;"	f	line:438	file:	signature:( int speed, unsigned long distance )
+vMotorDriveLeft	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	88;"	p	line:88	file:	signature:( int speed, unsigned long distance )
+vMotorDriveRadius	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	779;"	f	line:779	signature:( int radius, int speed, unsigned long distance, enum BEHAVIORS behaviorID )
+vMotorDriveRadius	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	14;"	p	line:14	signature:( int radius, int speed, unsigned long distance, enum BEHAVIORS behaviorID )
+vMotorDriveRequest	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	743;"	f	line:743	signature:( int leftSpeed, int rightSpeed, long distance, enum BEHAVIORS behaviorID )
+vMotorDriveRequest	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	13;"	p	line:13	signature:( int leftSpeed, int rightSpeed, long distance, enum BEHAVIORS behaviorID )
+vMotorDriveRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	571;"	f	line:571	file:	signature:( int speed, unsigned long distance )
+vMotorDriveRight	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	89;"	p	line:89	file:	signature:( int speed, unsigned long distance )
+vMotorISR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	250;"	f	line:250	signature:( void )
+vMotorISR	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	131;"	p	line:131	file:	signature:( void )
+vMotorInitialize	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	92;"	f	line:92	signature:( void )
+vMotorInitialize	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	5;"	p	line:5	signature:( void )
+vMotorTurnHeading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	881;"	f	line:881	signature:( int radius, int speed, unsigned int new_heading, enum BEHAVIORS behaviorID )
+vMotorTurnHeading	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	15;"	p	line:15	signature:( int radius, int speed, unsigned int new_heading, enum BEHAVIORS behaviorID )
+vPDACmd	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\PDACmd.c	58;"	f	line:58	signature:( void )
+vPDACmd	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	84;"	p	line:84	file:	signature:( void )
+vPortEndScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	246;"	p	line:246	signature:( void )
+vPortEndScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	583;"	f	line:583	signature:( void )
+vPortFree	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	232;"	p	line:232	signature:( void *pv )
+vPortFree	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	128;"	f	line:128	signature:( void *pv )
+vPortInitialiseBlocks	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	233;"	p	line:233	signature:( void )
+vPortInitialiseBlocks	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	137;"	f	line:137	signature:( void )
+vPortYield	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	596;"	f	line:596	signature:( void )
+vPortYield	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\portmacro.h	110;"	p	line:110	signature:( void )
+vQueueAddToRegistry	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1238;"	p	line:1238	signature:( xQueueHandle xQueue, signed portCHAR *pcName )
+vQueueAddToRegistry	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1402;"	f	line:1402	signature:( xQueueHandle xQueue, signed portCHAR *pcQueueName )
+vQueueAddToRegistry	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	168;"	p	line:168	file:	signature:( xQueueHandle xQueue, signed portCHAR *pcQueueName )
+vQueueDelete	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	775;"	p	line:775	signature:( xQueueHandle xQueue )
+vQueueDelete	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1019;"	f	line:1019	signature:( xQueueHandle pxQueue )
+vQueueDelete	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	120;"	p	line:120	file:	signature:( xQueueHandle xQueue )
+vQueueUnregisterQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1425;"	f	line:1425	file:	signature:( xQueueHandle xQueue )
+vQueueUnregisterQueue	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	167;"	p	line:167	file:	signature:( xQueueHandle xQueue )
+vReleaseControl	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	948;"	f	line:948	signature:( enum BEHAVIORS behaviorID )
+vReleaseControl	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	16;"	p	line:16	signature:( enum BEHAVIORS behaviorID )
+vScriptInitialise	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	21;"	p	line:21	signature:( void )
+vScriptInitialise	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	51;"	f	line:51	signature:( void )
+vSerialRxISR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	280;"	f	line:280	signature:( void )
+vSerialRxISR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	56;"	p	line:56	file:	signature:( void )
+vSerialRxISR	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	128;"	p	line:128	file:	signature:( void )
+vSerialTxISR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	314;"	f	line:314	signature:( void )
+vSerialTxISR	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	55;"	p	line:55	file:	signature:( void )
+vSerialTxISR	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	127;"	p	line:127	file:	signature:( void )
+vStartUARTIOTask	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	93;"	f	line:93	signature:( void )
+vStartUARTIOTask	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	101;"	p	line:101	signature:( void )
+vTaskCleanUpResources	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1043;"	p	line:1043	signature:( void )
+vTaskCleanUpResources	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1375;"	f	line:1375	signature:( void )
+vTaskDelay	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	329;"	p	line:329	signature:( portTickType xTicksToDelay )
+vTaskDelay	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	638;"	f	line:638	signature:( portTickType xTicksToDelay )
+vTaskDelayUntil	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	388;"	p	line:388	signature:( portTickType * const pxPreviousWakeTime, portTickType xTimeIncrement )
+vTaskDelayUntil	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	561;"	f	line:561	signature:( portTickType * const pxPreviousWakeTime, portTickType xTimeIncrement )
+vTaskDelete	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	274;"	p	line:274	signature:( xTaskHandle pxTask )
+vTaskDelete	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	495;"	f	line:495	signature:( xTaskHandle pxTaskToDelete )
+vTaskEndScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	688;"	p	line:688	signature:( void )
+vTaskEndScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1023;"	f	line:1023	signature:( void )
+vTaskEnterCritical	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2193;"	f	line:2193	signature:( void )
+vTaskExitCritical	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2208;"	f	line:2208	signature:( void )
+vTaskGetRunTimeStats	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	889;"	p	line:889	signature:( signed portCHAR *pcWriteBuffer )
+vTaskGetRunTimeStats	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1212;"	f	line:1212	signature:( signed portCHAR *pcWriteBuffer )
+vTaskIncrementTick	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	990;"	p	line:990	signature:( void )
+vTaskIncrementTick	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1317;"	f	line:1317	signature:( void )
+vTaskList	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	857;"	p	line:857	signature:( signed portCHAR *pcWriteBuffer )
+vTaskList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1149;"	f	line:1149	signature:( signed portCHAR *pcWriteBuffer )
+vTaskMissedYield	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1075;"	p	line:1075	signature:( void )
+vTaskMissedYield	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1724;"	f	line:1724	signature:( void )
+vTaskPlaceOnEventList	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1013;"	p	line:1013	signature:( const xList * const pxEventList, portTickType xTicksToWait )
+vTaskPlaceOnEventList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1557;"	f	line:1557	signature:( const xList * const pxEventList, portTickType xTicksToWait )
+vTaskPriorityDisinherit	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1093;"	p	line:1093	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPriorityDisinherit	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2167;"	f	line:2167	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPriorityInherit	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1087;"	p	line:1087	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPriorityInherit	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2135;"	f	line:2135	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPrioritySet	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	477;"	p	line:477	signature:( xTaskHandle pxTask, unsigned portBASE_TYPE uxNewPriority )
+vTaskPrioritySet	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	721;"	f	line:721	signature:( xTaskHandle pxTask, unsigned portBASE_TYPE uxNewPriority )
+vTaskResume	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	577;"	p	line:577	signature:( xTaskHandle pxTaskToResume )
+vTaskResume	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	900;"	f	line:900	signature:( xTaskHandle pxTaskToResume )
+vTaskSetApplicationTaskTag	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	953;"	p	line:953	signature:( xTaskHandle xTask, pdTASK_HOOK_CODE pxHookFunction )
+vTaskSetApplicationTaskTag	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1428;"	f	line:1428	signature:( xTaskHandle xTask, pdTASK_HOOK_CODE pxTagValue )
+vTaskSetTimeOutState	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1063;"	p	line:1063	signature:( xTimeOutType * const pxTimeOut )
+vTaskSetTimeOutState	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1674;"	f	line:1674	signature:( xTimeOutType * const pxTimeOut )
+vTaskStartScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	635;"	p	line:635	signature:( void )
+vTaskStartScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	981;"	f	line:981	signature:( void )
+vTaskStartTrace	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	910;"	p	line:910	signature:( signed portCHAR * pcBuffer, unsigned portLONG ulBufferSize )
+vTaskStartTrace	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1277;"	f	line:1277	signature:( signed portCHAR * pcBuffer, unsigned portLONG ulBufferSize )
+vTaskSuspend	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	528;"	p	line:528	signature:( xTaskHandle pxTaskToSuspend )
+vTaskSuspend	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	826;"	f	line:826	signature:( xTaskHandle pxTaskToSuspend )
+vTaskSuspendAll	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	739;"	p	line:739	signature:( void )
+vTaskSuspendAll	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1034;"	f	line:1034	signature:( void )
+vTaskSwitchContext	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1053;"	p	line:1053	signature:( void )
+vTaskSwitchContext	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1513;"	f	line:1513	signature:( void )
+vTestLEDInitialise	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\RoboDetector_tasks.h	22;"	p	line:22	signature:( void )
+vTestLEDInitialise	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	84;"	f	line:84	signature:( void )
+vUARTIOInitUSART	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	105;"	f	line:105	signature:( void )
+vUARTIOInitUSART	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	59;"	p	line:59	file:	signature:( void )
+vUARTIOInitUSART	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	102;"	p	line:102	signature:( void )
+vUARTIOWriteBT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	186;"	f	line:186	signature:( char *data, unsigned int byteCount )
+vUARTIOWriteBT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	58;"	p	line:58	file:	signature:( char *data, unsigned int byteCount )
+vUARTIOWriteBT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	100;"	p	line:100	signature:( char *data, unsigned int byteCount )
+vUARTIOputsBT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	174;"	f	line:174	signature:( char *data)
+vUARTIOputsBT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	57;"	p	line:57	file:	signature:( char *data)
+vUARTIOputsBT	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	103;"	p	line:103	signature:( char * )
+vWriteTraceToBuffer::	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	218;"	d	line:218	file:
+vWriteTraceToBuffer::	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	222;"	d	line:222	file:
+w	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	152;"	m	line:152	union:_DWORD_VAL
+winner	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\Motor.c	219;"	l	line:219
+word	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\oi.h	158;"	m	line:158	union:_DWORD_VAL
+write_i2c_register	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	78;"	f	line:78	signature:(unsigned char register_addr, unsigned char register_value)
+x	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	51;"	v	line:51	file:
+xAlreadyYielded	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1045;"	l	line:1045
+xAlreadyYielded	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	564;"	l	line:564
+xAlreadyYielded	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	641;"	l	line:641
+xCharsForTx	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	80;"	v	line:80	file:
+xCoRoutineCreate	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	154;"	p	line:154	signature:( crCOROUTINE_CODE pxCoRoutineCode, unsigned portBASE_TYPE uxPriority, unsigned portBASE_TYPE uxIndex )
+xCoRoutineHandle	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	67;"	t	line:67
+xCoRoutineRemoveFromEventList	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	737;"	p	line:737	signature:( const xList *pxEventList )
+xComPortHandle	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	40;"	t	line:40
+xDelayTime	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\TestLED\TestLED.c	63;"	l	line:63
+xDelayedTaskList1	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	118;"	v	line:118	file:
+xDelayedTaskList2	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	119;"	v	line:119	file:
+xEntryTimeSet	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	440;"	l	line:440
+xEntryTimeSet	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	550;"	l	line:550
+xEntryTimeSet	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	624;"	l	line:624
+xEntryTimeSet	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	801;"	l	line:801
+xEventListItem	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	76;"	m	line:76	struct:corCoRoutineControlBlock
+xEventListItem	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	72;"	m	line:72	struct:tskTaskControlBlock	file:
+xGenericListItem	C:\Projects\RoboDetector\FreeRTOS\Source\include\croutine.h	75;"	m	line:75	struct:corCoRoutineControlBlock
+xGenericListItem	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	71;"	m	line:71	struct:tskTaskControlBlock	file:
+xHandle	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	157;"	m	line:157	struct:QUEUE_REGISTRY_ITEM	file:
+xHeap	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	92;"	v	line:92	file:
+xHigherPriorityTaskWoken	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	284;"	l	line:284
+xItemValue	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	104;"	m	line:104	struct:xMINI_LIST_ITEM
+xItemValue	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	94;"	m	line:94	struct:xLIST_ITEM
+xLIST	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	113;"	s	line:113
+xLIST_ITEM	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	92;"	s	line:92
+xList	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	118;"	t	line:118
+xListEnd	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	117;"	m	line:117	struct:xLIST
+xListIsEmpty	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1896;"	l	line:1896
+xListItem	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	100;"	t	line:100
+xMINI_LIST_ITEM	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	102;"	s	line:102
+xMiniListItem	C:\Projects\RoboDetector\FreeRTOS\Source\include\list.h	108;"	t	line:108
+xMissedYield	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	145;"	v	line:145	file:
+xMotorControlParameters	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Motor\motor.h	66;"	t	line:66
+xNextFreeByte	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	94;"	v	line:94
+xNumOfOverflows	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	146;"	v	line:146	file:
+xOverflowCount	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	88;"	m	line:88	struct:xTIME_OUT
+xPendingReadyList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	122;"	v	line:122	file:
+xPortStartScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\include\portable.h	239;"	p	line:239	signature:( void )
+xPortStartScheduler	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MPLAB\PIC18F\port.c	567;"	f	line:567	signature:( void )
+xQUEUE	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	102;"	t	line:102	file:
+xQueueAltGenericReceive	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1183;"	p	line:1183	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	129;"	p	line:129	file:	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	622;"	f	line:622	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericSend	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1182;"	p	line:1182	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltGenericSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	128;"	p	line:128	file:	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltGenericSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	548;"	f	line:548	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltPeek::(xQueue,pvBuffer,xTicksToWait)	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1187;"	d	line:1187
+xQueueAltReceive::(xQueue,pvBuffer,xTicksToWait)	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1186;"	d	line:1186
+xQueueAltSendToBack::(xQueue,pvItemToQueue,xTicksTo	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1185;"	d	line:1185
+xQueueAltSendToFront::(xQueue,pvItemToQueue,xTicksTo	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1184;"	d	line:1184
+xQueueCRReceive	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1201;"	p	line:1201	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1257;"	f	line:1257	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	142;"	p	line:142	file:	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceiveFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1199;"	p	line:1199	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueCRReceiveFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1360;"	f	line:1360	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxCoRoutineWoken )
+xQueueCRReceiveFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	140;"	p	line:140	file:	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueCRSend	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1200;"	p	line:1200	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1189;"	f	line:1189	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	141;"	p	line:141	file:	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSendFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1198;"	p	line:1198	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCRSendFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1332;"	f	line:1332	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCRSendFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	139;"	p	line:139	file:	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCreate	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	124;"	p	line:124	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize )
+xQueueCreate	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	117;"	p	line:117	file:	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize )
+xQueueCreate	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	233;"	f	line:233	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize )
+xQueueCreateCountingSemaphore	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1208;"	p	line:1208	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateCountingSemaphore	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	125;"	p	line:125	file:	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateCountingSemaphore	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	415;"	f	line:415	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateMutex	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1207;"	p	line:1207	signature:( void )
+xQueueCreateMutex	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	124;"	p	line:124	file:	signature:( void )
+xQueueCreateMutex	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	286;"	f	line:286	signature:( void )
+xQueueGenericReceive	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	746;"	p	line:746	signature:( xQueueHandle xQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeek )
+xQueueGenericReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	122;"	p	line:122	file:	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueGenericReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	799;"	f	line:799	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueGenericSend	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	460;"	p	line:460	signature:( xQueueHandle xQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	118;"	p	line:118	file:	signature:( xQueueHandle xQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	438;"	f	line:438	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSendFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1068;"	p	line:1068	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGenericSendFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	121;"	p	line:121	file:	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGenericSendFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	746;"	f	line:746	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGiveMutexRecursive	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1215;"	p	line:1215	signature:( xQueueHandle xMutex )
+xQueueGiveMutexRecursive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	127;"	p	line:127	file:	signature:( xQueueHandle xMutex )
+xQueueGiveMutexRecursive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	334;"	f	line:334	signature:( xQueueHandle pxMutex )
+xQueueHandle	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	61;"	t	line:61
+xQueueHandle	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	110;"	t	line:110	file:
+xQueueIsQueueEmptyFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1163;"	p	line:1163	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueEmptyFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1156;"	f	line:1156	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueEmptyFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	130;"	p	line:130	file:	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1164;"	p	line:1164	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1178;"	f	line:1178	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	131;"	p	line:131	file:	signature:( const xQueueHandle pxQueue )
+xQueuePeek::(xQueue,pvBuffer,xTicksToWait)	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	554;"	d	line:554
+xQueueReceive::(xQueue,pvBuffer,xTicksToWait)	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	647;"	d	line:647
+xQueueReceiveFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1157;"	p	line:1157	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueReceiveFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	123;"	p	line:123	file:	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueReceiveFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	946;"	f	line:946	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueRegistry	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	163;"	v	line:163
+xQueueRegistryItem	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	158;"	t	line:158	file:
+xQueueSend::(xQueue,pvItemToQueue,xTicksTo	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	372;"	d	line:372
+xQueueSendFromISR::(pxQueue,pvItemToQueue,pxHighe	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	990;"	d	line:990
+xQueueSendToBack::(xQueue,pvItemToQueue,xTicksTo	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	288;"	d	line:288
+xQueueSendToBackFromISR::(pxQueue,pvItemToQueue,pxHighe	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	916;"	d	line:916
+xQueueSendToFront::(xQueue,pvItemToQueue,xTicksTo	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	206;"	d	line:206
+xQueueSendToFrontFromISR::(pxQueue,pvItemToQueue,pxHighe	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	845;"	d	line:845
+xQueueSizeInBytes	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	236;"	l	line:236
+xQueueTakeMutexRecursive	C:\Projects\RoboDetector\FreeRTOS\Source\include\queue.h	1214;"	p	line:1214	signature:( xQueueHandle xMutex, portTickType xBlockTime )
+xQueueTakeMutexRecursive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	126;"	p	line:126	file:	signature:( xQueueHandle xMutex, portTickType xBlockTime )
+xQueueTakeMutexRecursive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	381;"	f	line:381	signature:( xQueueHandle pxMutex, portTickType xBlockTime )
+xRTOS_HEAP	C:\Projects\RoboDetector\FreeRTOS\Source\portable\MemMang\heap_1.c	84;"	u	line:84	file:
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1146;"	l	line:1146
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1158;"	l	line:1158
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1168;"	l	line:1168
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1180;"	l	line:1180
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1191;"	l	line:1191
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1259;"	l	line:1259
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	1362;"	l	line:1362
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	336;"	l	line:336
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	383;"	l	line:383
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	748;"	l	line:748
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	948;"	l	line:948
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1457;"	l	line:1457
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1486;"	l	line:1486
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1630;"	l	line:1630
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1683;"	l	line:1683
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2109;"	l	line:2109
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	372;"	l	line:372
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	871;"	l	line:871
+xReturn	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	983;"	l	line:983
+xRxLock	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	99;"	m	line:99	struct:QueueDefinition	file:
+xRxedChars	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	79;"	v	line:79	file:
+xSchedulerRunning	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	142;"	v	line:142	file:
+xScriptQueue	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Script\Script.c	31;"	v	line:31
+xShouldDelay	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	564;"	l	line:564
+xSuspendedTaskList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	133;"	v	line:133	file:
+xTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1430;"	l	line:1430
+xTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1456;"	l	line:1456
+xTCB	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1485;"	l	line:1485
+xTIME_OUT	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	86;"	s	line:86
+xTaskCallApplicationTaskHook	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	973;"	p	line:973	signature:( xTaskHandle xTask, void *pvParameter )
+xTaskCallApplicationTaskHook	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1483;"	f	line:1483	signature:( xTaskHandle xTask, void *pvParameter )
+xTaskCheckForTimeOut	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1069;"	p	line:1069	signature:( xTimeOutType * const pxTimeOut, portTickType * const pxTicksToWait )
+xTaskCheckForTimeOut	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1681;"	f	line:1681	signature:( xTimeOutType * const pxTimeOut, portTickType * const pxTicksToWait )
+xTaskCreate	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	233;"	p	line:233	signature:( pdTASK_CODE pvTaskCode, const signed portCHAR * const pcName, unsigned portSHORT usStackDepth, void *pvParameters, unsigned portBASE_TYPE uxPriority, xTaskHandle *pvCreatedTask )
+xTaskCreate	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	370;"	f	line:370	signature:( pdTASK_CODE pvTaskCode, const signed portCHAR * const pcName, unsigned portSHORT usStackDepth, void *pvParameters, unsigned portBASE_TYPE uxPriority, xTaskHandle *pxCreatedTask )
+xTaskGetApplicationTaskTag	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	961;"	p	line:961	signature:( xTaskHandle xTask )
+xTaskGetApplicationTaskTag	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1454;"	f	line:1454	signature:( xTaskHandle xTask )
+xTaskGetCurrentTaskHandle	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1058;"	p	line:1058	signature:( void )
+xTaskGetCurrentTaskHandle	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2093;"	f	line:2093	signature:( void )
+xTaskGetSchedulerState	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1081;"	p	line:1081	signature:( void )
+xTaskGetSchedulerState	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	2107;"	f	line:2107	signature:( void )
+xTaskGetTickCount	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	817;"	p	line:817	signature:( void )
+xTaskGetTickCount	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1124;"	f	line:1124	signature:( void )
+xTaskHandle	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	81;"	t	line:81
+xTaskIsTaskSuspended	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	802;"	p	line:802	signature:( xTaskHandle xTask )
+xTaskIsTaskSuspended	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	869;"	f	line:869	signature:( xTaskHandle xTask )
+xTaskRemoveFromEventList	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	1030;"	p	line:1030	signature:( const xList * const pxEventList )
+xTaskRemoveFromEventList	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1627;"	f	line:1627	signature:( const xList * const pxEventList )
+xTaskResumeAll	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	791;"	p	line:791	signature:( void )
+xTaskResumeAll	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	531;"	p	line:531	file:
+xTaskResumeAll	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	538;"	p	line:538	file:
+xTaskResumeAll	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	932;"	p	line:932	file:
+xTaskResumeAll	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	938;"	p	line:938	file:
+xTaskResumeAll	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1042;"	f	line:1042	signature:( void )
+xTaskResumeFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	597;"	p	line:597	signature:( xTaskHandle pxTaskToResume )
+xTaskResumeFromISR	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	942;"	f	line:942	signature:( xTaskHandle pxTaskToResume )
+xTasksWaitingTermination	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	126;"	v	line:126	file:
+xTasksWaitingToReceive	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	93;"	m	line:93	struct:QueueDefinition	file:
+xTasksWaitingToSend	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	92;"	m	line:92	struct:QueueDefinition	file:
+xTickCount	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	139;"	v	line:139	file:
+xTicks	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1126;"	l	line:1126
+xTimeOnEntering	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	89;"	m	line:89	struct:xTIME_OUT
+xTimeOut	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	441;"	l	line:441
+xTimeOut	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	551;"	l	line:551
+xTimeOut	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	625;"	l	line:625
+xTimeOut	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	802;"	l	line:802
+xTimeOutType	C:\Projects\RoboDetector\FreeRTOS\Source\include\task.h	90;"	t	line:90
+xTimeToWake	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1559;"	l	line:1559
+xTimeToWake	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	563;"	l	line:563
+xTimeToWake	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	640;"	l	line:640
+xTracing	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	182;"	v	line:182	file:
+xTxLock	C:\Projects\RoboDetector\FreeRTOS\Source\queue.c	100;"	m	line:100	struct:QueueDefinition	file:
+xUARTIOGetChar	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	135;"	f	line:135	signature:( xComPortHandle pxPort, unsigned portCHAR *pcRxedChar, portTickType xBlockTime )
+xUARTIOGetChar	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	98;"	p	line:98	signature:( xComPortHandle pxPort, unsigned portCHAR *pcRxedChar, portTickType xBlockTime )
+xUARTIOPutChar	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\UARTIO.c	150;"	f	line:150	signature:( unsigned portCHAR cOutChar )
+xUARTIOPutChar	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\serial\serial.h	99;"	p	line:99	signature:(unsigned portCHAR cOutChar)
+xValueOfInsertion	C:\Projects\RoboDetector\FreeRTOS\Source\list.c	110;"	l	line:110
+xYieldRequired	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	1060;"	l	line:1060
+xYieldRequired	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	724;"	l	line:724
+xYieldRequired	C:\Projects\RoboDetector\FreeRTOS\Source\tasks.c	944;"	l	line:944
+y	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	52;"	v	line:52	file:
+z	C:\Projects\RoboDetector\FreeRTOS\RoboDetector\PIC18_MPLAB\Compass\Compass.c	53;"	v	line:53	file:
